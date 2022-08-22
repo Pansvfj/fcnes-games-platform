@@ -8,7 +8,6 @@ QrcResource.cpp
 *.opensdf
 *.sdf
 *.qrc
-3rdParty*
 Makefile*
 *build
 ipch
